@@ -1,0 +1,67 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/c5/3a/b1/c53ab1360012af03f0e1398e5e5eeffd.jpg");
+    color:inherit;
+}
+    
+.logo {
+    height: 40x;
+    width: 40px;
+}
+
+h2{
+    color:  black;
+}
+h6{
+    color: black;
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: black!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(247, 205, 214);
+    
+}
+.cor{
+    background: rgb(247, 244, 244);
+}
+
+.navbar-light .navbar-brand{
+color:rgb(245, 99, 73);
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.7cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(31, 29, 29);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:rgb(245, 99, 73);
+    border-color:  #FFF0F5;
+
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(245, 99, 73);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color:rgb(248, 247, 247);
+}
+.footer a{
+    color: rgb(245, 99, 73);
+    text-decoration: none;
+    font-size: 0.7cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
